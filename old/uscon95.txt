@@ -1,0 +1,2097 @@
+****Project Gutenberg's United States Congress Address Book****
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The 1995 U.S. Congress Address Book
+
+April, 1995  [Etext #251]
+
+
+****Project Gutenberg's United States Congress Address Book****
+*****This file should be named uscon95.txt or uscon95.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, uscon96.txt.
+VERSIONS based on separate sources get new LETTER, uscon96a.txt.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $4
+million dollars per hour this year as we release some eight text
+files per month:  thus upping our productivity from $2 million.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is 10% of the expected number of computer users by the end
+of the year 2001.
+
+We need your donations more than ever!
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+to IBC, too)
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Michael S. Hart, Executive
+Director:
+hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp mrcnext.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext95
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Illinois Benedictine College (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association / Illinois
+     Benedictine College" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Illinois Benedictine College".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+
+This is the Project Gutenberg listing of the US Congress, 1995
+You may notice this file is much shorter than comparable files
+distributed from other libraries and archives [when you delete
+the header info, this file will be about 32K, and the files in
+distribution are about 46K.  The difference is that we have as
+usual removed the extraneous spaces used in creating columns &
+and other special effects, and added the White House and other
+persons of interest at the bottom of the list.  If you have an
+Etext of the Senate, we would love to add that].
+
+UNITED STATES CONGRESS
+
+DIRECTORY
+
+Congress
+
+Cannon=Cannon Building
+Capitol=Capitol Building
+FHOB=Ford House Office Building
+LHOB=Longworth House Office Bulding
+O'Neill=O'Neill Building
+RHOB=Rayburn House Office Building
+
+Address: Washington, D.C. 20515
+
+
+Sample Mailing Address:
+Rep. Don Young
+Rayburn House Office Building
+Washington, D.C. 20515
+
+
+ST Representative (Party)
+Phone & E-Mail   Fax
+
+
+AK Young, Don (R)
+1-202-225-5765   1-202-225-5765
+RHOB
+
+AL Callahan, H. L. (R)
+1-202-225-4931   1-202-225-0562
+RHOB
+
+AL Everett, Terry (R)
+1-202-225-2901   na
+Cannon
+
+AL Browder, Glen (D)
+1-202-225-3261   1-202-225-9020
+RHOB
+
+AL Bevill, Thomas (D)
+1-202-225-4876   1-202-225-0842
+RHOB
+
+AL Cramer Jr, Robert E. (D)
+1-202-225-4801   na
+Cannon
+
+AL Bachus, Spencer (R)
+1-202-225-4921   na
+Cannon
+
+AL Hilliard, Earl F. (D)
+1-202-225-2665   1-202-226-0772
+LHOB
+
+Faleomavaega, Eni F.H. (D)     1-202-225-8577
+RHOB
+
+AR Lambert-Lincoln, Blanche (D)   1-202-225-4076   na
+LHOB
+
+AR Thornton, Raymond (D)
+1-202-225-2506   1-202-225-9273
+LHOB
+
+AR Hutchinson, Tim (R)
+1-202-225-4301   na
+LHOB
+
+AR Dickey, Jay  (R)
+1-202-225-3772   1-202-225-8646
+Cannon                     jdickey@hr.house.gov
+
+AZ Salmon, Matthew (R)
+1-202-225-2635   1-202-225-3405
+Cannon
+
+AZ Pastor, Ed (D)
+1-202-225-4065
+Cannon                     edpastor@hr.house.gov
+
+AZ Stump, Robert (R)
+1-202-225-4576   1-202-225-6328
+Cannon
+
+AZ Shadegg, John (R)
+1-202-225-3361   1-202-225-3462
+Cannon
+
+AZ Kolbe, James T. (R)
+1-202-225-2542   1-202-225-0378
+Cannon
+
+AZ Hayworth, John (R)
+1-202-225-2190
+LHOB
+
+CA Riggs, Frank (R)
+1-202-225-3311
+LHOB
+
+CA Herger, Walter W. (R)
+1-202-225-3076   1-202-225-1609
+RHOB
+
+CA Fazio, Vic (D)
+1-202-225-5716   1-202-225-0354
+RHOB
+
+CA Doolittle, John T. (R)
+1-202-225-2511   1-202-225-5444
+LHOB
+
+CA Matsui, Robert T. (D)
+1-202-225-7163   1-202-225-0566
+RHOB
+
+CA Woolsey, Lynn (D)
+1-202-225-5161   na
+Cannon
+
+CA Miller, George  (D)
+1-202-225-2095   1-202-225-5609
+RHOB                      fgeorgem@hr.house.gov
+
+CA Pelosi, Nancy (D)
+1-202-225-4965   1-202-225-8259
+RHOB
+
+CA Dellums, Ronald V. (D)
+1-202-225-2661   1-202-225-9817
+RHOB
+
+CA Baker, Bill (R)
+1-202-225-1880   1-202-225-2150
+LHOB
+
+CA Pombo, Richard (R)
+1-202-225-1947   1-202-226-0861
+LHOB
+
+CA Lantos, Thomas (D)
+1-202-225-3531   na
+RHOB                      talk2tom@hr.house.gov
+
+CA Stark, Pete (D)
+1-202-225-5065   na
+Cannon                     petemail@hr.house.gov
+
+CA Eshoo, Anna G. (D)
+1-202-225-8104   na
+Cannon                     annagram@hr.house.gov
+
+CA Mineta, Norman Y. (D)
+1-202-225-2631   na
+RHOB                      tellnorm@hr.house.gov
+
+CA Lofgren, Zoe (D)
+1-202-225-3071   1-202-225-9460
+Cannon
+
+CA Farr, Same (D)
+1-202-225-2861
+LHOB
+
+CA Condit, Gary (D)
+1-202-225-6131   1-202-225-0819
+RHOB
+
+CA Radanovich, George (R)
+1-202-225-4540   1-202-225-0399
+Cannon
+
+CA Dooley, Calvin M. (D)
+1-202-225-3341   1-202-225-9308
+LHOB
+
+CA Thomas, Bill (R)
+1-202-225-2915   na
+RHOB
+
+CA Seastrand, Andrea (R)
+1-202-225-3601
+RHOB
+
+CA Gallegly, Elton (R)
+1-202-225-5811   na
+RHOB
+
+CA Beilenson, Anthony (D)
+1-202-225-5911   na
+RHOB
+
+CA McKeon, Howard P. (R)
+1-202-225-1956   1-202-226-0683
+Cannon
+
+CA Berman, Howard L. (D)
+1-202-225-4695   na
+RHOB
+
+CA Moorhead, Carlos J. (R)
+1-202-225-4176   1-202-226-1279
+RHOB
+
+CA Dreier, David (R)
+1-202-225-2305   1-202-225-4745
+Cannon
+
+CA Waxman, Henry A. (D)
+1-202-225-3976   1-202-225-4099
+RHOB
+
+CA Becerra, Xavier (D)
+1-202-225-6235   1-202-225-2202
+LHOB
+
+CA Martinez, Matthew G. (D)
+1-202-225-5464   1-202-225-4467
+RHOB
+
+CA Dixon, Julian C. (D)
+1-202-225-7084   1-202-225-4091
+RHOB
+
+CA Roybal-Allard, Lucille (D)     1-202-225-1766   1-202-226-0350
+Cannon
+
+CA Torres, Esteban E. (D)
+1-202-225-5256   na
+RHOB
+
+CA Waters, Maxine (D)
+1-202-225-2201   1-202-225-7854
+Cannon
+
+CA Harman, Jane (D)
+1-202-225-8220
+Cannon                     jharman@hr.house.gov
+
+CA Tucker III, Walter R. (D)
+1-202-225-7924   1-202-225-7926
+Cannon                     tucker96@hr.house.gov
+
+CA Horn, Steve (R)
+1-202-225-6676   1-202-226-1012
+Cannon
+
+CA Royce, Ed (R)
+1-202-225-4111   1-202-226-0335
+LHOB
+
+CA Lewis, Jerry (R)
+1-202-225-5861   1-202-225-6498
+RHOB
+
+CA Kim, Jay C. (R)
+1-202-225-3201   1-202-226-1485
+Cannon
+
+CA Brown Jr., George E. (D)
+1-202-225-6161   1-202-225-8671
+RHOB
+
+CA Calvert, Ken (R)
+1-202-225-1986   na
+LHOB
+
+CA Bono, Sonny (R)
+1-202-225-5330   1-202-226-1040
+Cannon
+
+CA Rohrabacher, Dana (R)
+1-202-225-2415   1-202-225-7067
+RHOB
+
+CA Dornan, Robert K. (R)
+1-202-225-2965   1-202-225-3694
+RHOB
+
+CA Cox, Christopher (R)
+1-202-225-5611   1-202-225-9177
+RHOB
+
+CA Packard, Ronald (R)
+1-202-225-3906   1-202-225-0134
+RHOB
+
+CA Bilbray, Brian (R)
+1-202-225-2040   1-202-225-2042
+LHOB
+
+CA Filner, Bob (D)
+1-202-225-8045   na
+Cannon
+
+CA Cunningham, Randy (R)
+1-202-225-5452   1-202-225-2558
+Cannon
+
+CA Hunter, Duncan L. (R)
+1-202-225-5672   1-202-225-0235
+RHOB
+
+CO Schroeder, Patricia (D)
+1-202-225-4431   1-202-225-5842
+RHOB
+
+CO Skaggs, David E. (D)
+1-202-225-2161   na
+LHOB
+
+CO McInnis, Scott (R)
+1-202-225-4761   1-202-226-0622
+Cannon
+
+CO Allard, Wayne (R)
+1-202-225-4676   1-202-225-8630
+Cannon
+
+CO Hefley, Joel (R)
+1-202-225-4422   1-202-225-1942
+RHOB
+
+CO Schaefer, Daniel (R)
+1-202-225-7882   1-202-225-7885
+RHOB
+
+CT Kennelly, Barbara B. (D)
+1-202-225-2265   1-202-225-1031
+Cannon
+
+CT Gejdenson, Samuel (D)
+1-202-225-2076   1-202-225-4977
+RHOB                      bozrah@hr.house.gov
+
+CT DeLauro, Rosa (D)
+1-202-225-3661   1-202-225-4890
+Cannon
+
+CT Shays, Christopher (R)
+1-202-225-5541   1-202-225-9629
+LHOB                      cshays@hr.house.gov
+
+CT Franks, Gary (R)
+1-202-225-3822   1-202-225-5085
+Cannon
+
+CT Johnson, Nancy L. (R)
+1-202-225-4476   1-202-225-4488
+Cannon
+
+Norton, Eleanor Holmes (D)     1-202-225-8050   1-202-225-3002
+LHOB
+
+Castle, Michael N. (R)
+1-202-225-4165   1-202-225-2291
+LHOB
+
+FL Scarborough, Joe (R)
+1-202-225-4136   1-202-225-5785
+LHOB
+
+FL Peterson, Peter (D)
+1-202-225-5235   1-202-225-1586
+Cannon
+
+FL Brown, Corrine (D)
+1-202-225-0123   1-202-225-2256
+LHOB
+
+FL Fowler, Tillie (R)
+1-202-225-2501   1-202-225-9318
+Cannon
+
+FL Thurman, Karen (D)
+1-202-225-1002   1-202-226-0329
+Cannon
+
+FL Stearns, Clifford B. (R)
+1-202-225-5744   1-202-225-3973
+RHOB                      cstearns@hr.house.gov
+
+FL Mica, John L. (R)
+1-202-225-4035   1-202-226-0821
+Cannon
+
+FL McCollum, William (R)
+1-202-225-2176   na
+RHOB
+
+FL Bilirakis, Michael (R)
+1-202-225-5755   1-202-225-4085
+RHOB
+
+FL Young, C. W. (R)
+1-202-225-5961   1-202-225-9764
+RHOB
+
+FL Gibbons, Samuel M. (D)
+1-202-225-3376   na
+RHOB
+
+FL Canady, Charles T. (R)
+1-202-225-1252   1-202-225-2279
+LHOB                      canady@hr.house.gov
+
+FL Miller, Dan (R)
+1-202-225-5015   1-202-226-0828
+Cannon
+
+FL Goss, Porter J. (R)
+1-202-225-2536   1-202-225-6820
+Cannon
+
+FL Weldon, Dave (R)
+1-202-225-3671   1-202-225-9039]
+Cannon
+
+FL Foley, Mark (R)
+1-202-225-5792   1-202-1860
+Cannon
+
+FL Meek, Carrie (D)
+1-202-225-4506   1-202-226-0777
+Cannon
+
+FL Ros-Lehtinen, Ileana (R)
+1-202-225-3931   1-202-225-5620
+RHOB
+
+FL Johnston II, Harry (D)
+1-202-225-3001   1-202-225-8791
+RHOB
+
+FL Deutsch, Peter (D)
+1-202-225-7931   1-202-225-8456
+Cannon                     pdeutsch@hr.house.gov
+
+FL Diaz-Balart, Lincoln (R)
+1-202-225-4211   1-202-225-8576
+Cannon
+
+FL Shaw Jr., E. C. (R)
+1-202-225-3026   1-202-225-8398
+RHOB
+
+FL Hastings, Alcee L. (D)
+1-202-225-1313   1-202-225-0690
+LHOB
+
+GA Kingston, Jack (R)
+1-202-225-5831   1-202-226-2269
+LHOB
+
+GA Bishop, Sanford (D)
+1-202-225-3631   1-202-225-2203
+LHOB
+
+GA Collins, Mac (R)
+1-202-225-5901   1-202-225-2515
+LHOB
+
+GA Linder, John (R)
+1-202-225-4272   na
+LHOB
+
+GA Lewis, John (D)
+1-202-225-3801   1-202-225-0351
+Cannon
+
+GA Gingrich, Newt (R)
+1-202-225-4501   1-202-225-4656
+RHOB                      georgia6@hr.house.gov
+
+GA Barr, Bob (R)
+1-202-225-2931
+LHOB
+
+GA Chambliss, Saxby
+1-202-225-6531
+LHOB
+
+GA Deal, Nathan (D)
+1-202-225-5211   1-202-225-8272
+LHOB
+
+GA Norwood, Charles (R)
+1-202-225-4101   1-202-226-1466
+LHOB
+
+GA McKinney, Cynthia (D)
+1-202-225-1605   1-202-226-0691
+Cannon
+
+Underwood, Robert A. (D)
+1-202-225-1188   1-202-226-0341
+Cannon
+
+HI Abercrombie, Neil (D)
+1-202-225-2726   na
+LHOB
+
+HI Mink, Patsy T. (D)
+1-202-225-4906   1-202-225-4987
+RHOB
+
+IA Leach, James (R)
+1-202-225-6576   1-202-226-1278
+RHOB
+
+IA Nussle, James Allen (R)
+1-202-225-2911   1-202-225-9129
+Cannon
+
+IA Lightfoot, James R. (R)
+1-202-225-3806   1-202-225-6973
+RHOB
+
+IA Ganske, Greg (R)
+1-202-225-4426
+RHOB
+
+IA Latham, Tom (R)
+1-202-225-5476
+Cannon
+
+ID Chenoweth, Helen
+1-202-225-6611   1-202-226-1213
+LHOB
+
+ID Crapo, Michael D. (R)
+1-202-225-5531   na
+Cannon
+
+IL Rush, Bobby L. (D)
+1-202-225-4372   1-202-226-0333
+Cannon
+
+IL Reynolds, Mel (D)
+1-202-225-0773   na
+Cannon
+
+IL Lipinski, William O. (D)
+1-202-225-5701   1-202-225-1012
+LHOB
+
+IL Gutierrez, Luis V. (D)
+1-202-225-8203   1-202-225-7810
+Cannon
+
+IL Flanagan, Michael (R)
+1-202-225-4061
+LHOB
+
+IL Hyde, Henry J. (R)
+1-202-225-4561   1-202-226-1240
+RHOB
+
+IL Collins, Cardiss (D)
+1-202-225-5006   1-202-225-8396
+RHOB
+
+IL Crane, Philip M. (R)
+1-202-225-3711   na
+Cannon
+
+IL Yates, Sidney R. (D)
+1-202-225-2111   1-202-225-3493
+RHOB
+
+IL Porter, John E. (R)
+1-202-225-4835   1-202-225-0157
+LHOB
+
+IL Weller, Gerald (R)
+1-202-225-3635   1-202-225-4447
+LHOB
+
+IL Costello, Jerry F. (D)
+1-202-225-5661   1-202-225-0285
+RHOB
+
+IL Fawell, Harris W. (R)
+1-202-225-3515   1-202-225-9420
+RHOB                      hfawell@hr.house.gov
+
+IL Hastert, J. D. (R)
+1-202-225-2976   1-202-225-0697
+RHOB                      dhastert@hr.house.gov
+
+IL Ewing, Thomas (R)
+1-202-225-2371   1-202-225-8071
+LHOB
+
+IL Manzullo, Donald (R)
+1-202-225-5676   1-202-225-5284
+Cannon
+
+IL Evans, Lane (D)
+1-202-225-5905   1-202-225-5396
+RHOB
+
+IL LaHood, Ray (R)
+1-202-225-6201   1-202-225-9461
+Cannon
+
+IL Poshard, Glenn (D)
+1-202-225-5201   1-202-225-1541
+RHOB
+
+IL Durbin, Richard J. (D)
+1-202-225-5271
+RHOB
+
+IN Visclosky, Peter J. (D)
+1-202-225-2461   1-202-225-2493
+RHOB
+
+IN McIntosh, David (R)
+1-202-225-3021
+LHOB
+
+IN Roemer, Timothy (D)
+1-202-225-3915   1-202-225-6798
+Cannon
+
+IN Souder, Mark (R)
+1-202-225-4436
+Cannon
+
+IN Buyer, Steve (D)
+1-202-225-5037   na
+Cannon
+
+IN Burton, Daniel (R)
+1-202-225-2276   1-202-225-0016
+RHOB
+
+IN Myers, John T. (R)
+1-202-225-5805   1-202-225-1649
+RHOB
+
+IN Hostettler, John (R)
+1-202-225-4636   1-202-225-4688
+LHOB
+
+IN Hamilton, Lee H. (D)
+1-202-225-5315   1-202-225-1101
+RHOB
+
+IN Jacobs Jr., Andrew (D)
+1-202-225-4011   na
+RHOB
+
+KS Roberts, Pat (R)
+1-202-225-2715   1-202-225-5375
+LHOB                      emailpat@hr.house.gov
+
+KS Brownback, Sam (R)
+1-202-225-6601   1-202-225-1445
+LHOB
+
+KS Meyers, Jan (R)
+1-202-225-2865   1-202-225-0554
+RHOB
+
+KS Tiahrt, Todd (R)
+1-202-225-6216
+LHOB
+
+KY Whitfield, Edward (R)
+1-202-225-3115   1-202-225-2169
+LHOB
+
+KY Lewis, Ron (R)
+1-202-225-3501   na
+Cannon
+
+KY Ward, Michael (D)
+1-202-225-5401
+LHOB
+
+KY Bunning, James (R)
+1-202-225-3465   1-202-225-0003
+RHOB
+
+KY Rogers, Harold (R)
+1-202-225-4601   1-202-225-0940
+RHOB
+
+KY Baesler, Scotty (D)
+1-202-225-4706   na
+Cannon
+
+LA Livingston, Robert (R)
+1-202-225-3015   1-202-225-0739
+RHOB
+
+LA Jefferson, William (D)
+1-202-225-6636   1-202-225-1988
+Cannon
+
+LA Tauzin, W. J. (D)
+1-202-225-4031   1-202-225-0563
+RHOB
+
+LA Fields, Cleo (D)
+1-202-225-8490   1-202-225-8959
+Cannon
+
+LA McCrery, James (R)
+1-202-225-2777   1-202-225-8039
+Cannon
+
+LA Baker, Richard H.(R)
+1-202-225-3901   1-202-225-7313
+Cannon
+
+LA Hayes, James A. (D)
+1-202-225-2031   1-202-225-1175
+RHOB
+
+MA Olver, John W. (D)
+1-202-225-5335   1-202-226-1224
+LHOB
+
+MA Neal, Richard E. (D)
+1-202-225-5601   1-202-225-8112
+RHOB
+
+MA Blute, Peter I. (R)
+1-202-225-6101   1-202-225-2217
+LHOB
+
+MA Frank, Barney (D)
+1-202-225-5931   1-202-225-0182
+RHOB
+
+MA Meehan, Martin T. (D)
+1-202-225-3411   1-202-226-0771
+Cannon
+
+MA Torkildsen, Peter G. (R)
+1-202-225-8020   1-202-225-8037
+Cannon
+
+MA Markey, Edward J. (D)
+1-202-225-2836   1-202-225-8689
+RHOB
+Richard Bailey
+
+MA Kennedy II, Joseph P. (D)
+1-202-225-5111   1-202-225-9322
+RHOB
+
+MA Moakley, John Joseph (D)
+1-202-225-8273   1-202-225-7304
+Cannon
+
+MA Studds, Gerry E. (D)
+1-202-225-3111   1-202-225-2212
+Cannon
+
+MD Gilchrest, Wayne T. (R)
+1-202-225-5311   1-202-225-0254
+Cannon
+
+MD Ehrlich, Jr., Robert (R)
+1-202-225-3061
+Cannon
+
+MD Cardin, Benjamin L. (D)
+1-202-225-4016   na
+Cannon
+
+MD Wynn, Albert R. (D)
+1-202-225-8699   1-202-225-8714
+Cannon
+
+MD Hoyer, Steny H. (D)
+1-202-225-4131   1-202-225-4300
+LHOB
+
+MD Bartlett, Roscoe G. (R)
+1-202-225-2721   na
+Cannon
+
+MD Mfume, Kweisi (D)
+1-202-225-4741   1-202-225-3178
+RHOB
+
+MD Morella, Constance (R)
+1-202-225-5341   1-202-225-1389
+Cannon
+
+ME Longley, James (R)
+1-202-225-6116
+Cannon
+
+ME Baldacci, John (D)
+1-202-225-6306
+LHOB
+
+MI Stupak, Bart (D)
+1-202-225-4735   1-202-225-4744
+Cannon
+
+MI Hoekstra, Peter (R)
+1-202-225-4401   na
+LHOB
+
+MI Ehlers, Vern (R)
+1-202-225-3831   na
+LHOB                      congehlr@hr.house.gov
+
+MI Camp, David Lee (R)
+1-202-225-3561   1-202-225-9679
+Cannon                     davecamp@hr.house.gov
+
+MI Barcia, James A. (D)
+1-202-225-8171   1-202-225-2168
+LHOB
+
+MI Upton, Frederick S.(R)
+1-202-225-3761   1-202-225-4986
+RHOB
+
+MI Smith, Nick (R)
+1-202-225-6276   na
+LHOB
+
+MI Chrysler, Dick (R)
+1-202-225-4872
+Cannon
+
+MI Kildee, Dale E. (D)
+1-202-225-3611   na
+RHOB
+
+MI Bonior, David E. (D)
+1-202-225-2106   1-202-226-1169
+RHOB
+
+MI Knollenberg, Joe (R)
+1-202-225-5802   1-202-226-2356
+LHOB
+
+MI Levin, Sander M. (D)
+1-202-225-4961   1-202-226-1033
+RHOB
+
+MI Rivers, Lynn (D)
+1-202-225-6261
+LHOB
+
+MI Conyers Jr., John (D)
+1-202-225-5126   1-202-225-0072
+RHOB                      jconyers@hr.house.gov
+
+MI Collins, Barbara Rose (D)
+1-202-225-2261   1-202-225-6645
+Cannon
+
+MI Dingell, John D. (D)
+1-202-225-4071   1-202-225-7426
+RHOB
+
+MN Gutknecht, Gilbert (R)
+1-202-225-2472
+Cannon
+
+MN Minge, David (D)
+1-202-225-2331   na
+LHOB
+
+MN Ramstad, James M. (D)
+1-202-225-2871   1-202-225-6351
+Cannon                     mn03@hr.house.gov
+
+MN Vento, Bruce F. (D)
+1-202-225-6631   1-202-225-1968
+RHOB
+
+MN Sabo, Martin O. (D)
+1-202-225-4755   na
+RHOB
+
+MN Luther, William (D)
+1-202-225-2271
+LHOB
+
+MN Peterson, Collin C. (D)
+1-202-225-2165   1-202-225-1593
+LHOB
+
+MN Oberstar, James L. (D)
+1-202-225-6211   1-202-225-0699
+RHOB
+
+MO Clay, William L. (D)
+1-202-225-2406   1-202-225-1725
+RHOB
+
+MO Talent, James M. (R)
+1-202-225-2561   1-202-225-2563
+LHOB
+
+MO Gephardt, Richard A. (D)
+1-202-225-2671   1-202-225-7452
+LHOB
+
+MO Skelton, Ike (D)
+1-202-225-2876   1-202-225-2695
+RHOB
+
+MO McCarthy, Karen (D)
+1-202-225-4535
+LHOB
+
+MO Danner, Pat (D)
+1-202-225-7041   1-202-225-8221
+LHOB
+
+MO Hancock, Melton D. (R)
+1-202-225-6536   1-202-225-7700
+Cannon
+
+MO Emerson, Bill (R)
+1-202-225-4404   1-202-225-9621
+RHOB
+
+MO Volkmer, Harold L. (D)
+1-202-225-2956   1-202-225-7834
+RHOB
+
+MS Wicker, Roger (R)
+1-202-225-4306   1-202-225-4328
+Cannon
+
+MS Thompson, Bennie G. (D)
+1-202-225-5876   1-202-225-5898
+LHOB
+
+MS Montgomery, G. V. (D)
+1-202-225-5031   1-202-225-3375
+RHOB
+
+MS Parker, Paul M. (D)
+1-202-225-5865   1-202-225-5886
+RHOB
+
+MS Taylor, Gene (D)
+1-202-225-5772   1-202-225-7074
+RHOB
+
+Williams, Pat (D)
+1-202-225-3211   na
+RHOB
+
+NC Clayton, Eva (D)
+1-202-225-3101   na
+Cannon
+
+NC Funderbunk, David (R)
+1-202-225-4531   1-202-225-1539
+Cannon
+
+NC Jones, Walter (R)
+1-202-225-3415   1-202-225-0666
+Cannon
+
+NC Heineman, Frederick (R)
+1-202-225-1784   1-202-225-6314
+LHOB
+
+NC Burr, Richard (R)
+1-202-225-2071   1-202-225-4060
+LHOB
+
+NC Coble, Howard (R)
+1-202-225-3065   1-202-225-8611
+Cannon
+
+NC Rose, Charles  (D)
+1-202-225-2731   1-202-225-2470
+Cannon                     crose@hr.house.gov
+
+NC Hefner, W. G. (D)
+1-202-225-3715   1-202-225-4036
+RHOB
+
+NC Myrick, Sue (R)
+1-202-225-1976
+Cannon
+
+NC Ballenger, Thomas C. (R)
+1-202-225-2576   1-202-225-0316
+RHOB
+
+NC Taylor, Charles Hart (R)
+1-202-225-6401   1-202-251-0794
+Cannon                     chtaylor@hr.house.gov
+
+NC Watt, Melvin  (D)
+1-202-225-1510   1-202-225-1512
+LHOB                      melmail@hr.house.gov
+
+Pomeroy, Earl (D)
+1-202-225-2611   1-202-226-0893
+LHOB                      epomeroy@hr.house.gov
+
+NE Bereuter, Douglas (R)
+1-202-225-4806   1-202-226-1148
+RHOB
+
+NE Christensen, Jon (R)
+1-202-225-4155
+LHOB
+
+NE Barrett, William E. (R)
+1-202-225-6435   na
+LHOB
+
+NH Zeliff Jr., William (R)
+1-202-225-5456   1-202-225-4370
+LHOB
+
+NH Bass, Charles (R)
+1-202-225-5206
+LHOB
+
+NJ Andrews, Robert E. (D)
+1-202-225-6501   1-202-225-6583
+RHOB
+
+NJ LoBiondo, Frank (R)
+1-202-225-6572   1-202-226-1108
+Cannon
+
+NJ Saxton, H. James (R)
+1-202-225-4765   1-202-225-0778
+Cannon
+
+NJ Smith, Christopher (R)
+1-202-225-3765   1-202-225-7768
+RHOB
+
+NJ Roukema, Marge (R)
+1-202-225-4465   1-202-225-9048
+RHOB
+
+NJ Pallone Jr., Frank (D)
+1-202-225-4671   1-202-225-9665
+Cannon
+
+NJ Franks, Bob (R)
+1-202-225-5361   1-202-225-9460
+Cannon
+
+NJ Martini, Bill (R)
+1-202-225-5751
+LHOB
+
+NJ Torricelli, Robert (D)
+1-202-224-5061   1-202-225-0843
+RHOB
+
+NJ Payne, Donald M. (D)
+1-202-225-3436   1-202-225-4160
+RHOB
+
+NJ Frelinghuysen, Rodney (R)
+1-202-225-5034   1-202-225-0658
+Cannon
+
+NJ Zimmer, Richard A. (R)
+1-202-225-5801   1-202-225-9181
+Cannon                     dzimmer@hr.house.gov
+
+NJ Menendez, Robert (D)
+1-202-225-7919   1-202-226-0792
+LHOB
+
+NM Schiff, Steven H. (R)
+1-202-225-6316   1-202-225-4975
+RHOB
+
+NM Skeen, Joseph (R)
+1-202-225-2365   1-202-225-9599
+RHOB
+
+NM Richardson, William (D)
+1-202-225-6190   na
+RHOB
+
+NV Ensign, John (R)
+1-202-225-5965   1-202-225-8808
+Cannon
+
+NV Vucanovich, Barbara (R)
+1-202-225-6155   1-202-225-2319
+RHOB
+
+NY Forbes, Michael
+1-202-225-3826   1-202-225-0776
+Cannon
+
+NY Lazio, Rick A. (R)
+1-202-225-3335   na
+Cannon
+
+NY King, Peter T. (R)
+1-202-225-7896   1-202-226-2279
+Cannon
+
+NY Frisa, Daniel (R)
+1-202-225-5516   1-202-225-4672
+LHOB
+
+NY Ackerman, Gary L. (D)
+1-202-225-2601   1-202-225-1589
+RHOB
+
+NY Flake, Floyd H. (D)
+1-202-225-3461   1-202-226-4169
+LHOB
+
+NY Manton, Thomas J. (D)
+1-202-225-3965   na
+RHOB                      tmanton@hr.house.gov
+
+NY Nadler, Jerrold (D)
+1-202-225-5635   1-202-225-6923
+Cannon
+
+NY Schumer, Charles E. (D)
+1-202-225-6616   1-202-225-4183
+RHOB
+
+NY Towns, Edolphus (D)
+1-202-225-5936   1-202-225-1018
+RHOB
+
+NY Owens, Major R. (D)
+1-202-225-6231   1-202-226-0112
+RHOB
+
+NY Velazquez, Nydia M. (D)
+1-202-225-2361   1-202-226-0327
+Cannon
+
+NY Molinari, Susan (R)
+1-202-225-3371   1-202-226-1272
+RHOB
+
+NY Maloney, Carolyn B. (D)
+1-202-225-7944   na
+LHOB
+
+NY Rangel, Charles B. (D)
+1-202-225-4365   1-202-225-0816
+RHOB
+
+NY Serrano, Jose E. (D)
+1-202-225-4361   1-202-225-6001
+RHOB
+
+NY Engel, Eliot L. (D)
+1-202-225-2464   na
+LHOB
+
+NY Lowey, Nita M. (D)
+1-202-225-6506   1-202-225-0546
+RHOB
+
+NY Kelly, Sue (R)
+1-202-225-5441   1-202-225-0962
+LHOB
+
+NY Gilman, Benjamin A. (R)
+1-202-225-3776   na
+RHOB
+
+NY McNulty, Michael R. (D)
+1-202-225-5076   1-202-225-5077
+RHOB
+
+NY Solomon, Gerald B. (R)
+1-202-225-5614   1-202-225-1168
+RHOB
+
+NY Boehlert, Sherwood (R)
+1-202-225-3665   1-202-225-1891
+RHOB                      boehlert@hr.house.gov
+
+NY McHugh, John M. (R)
+1-202-225-4611   na
+Cannon
+
+NY Walsh, James T. (R)
+1-202-225-3701   1-202-225-4042
+LHOB
+
+NY Hinchey, Maurice D. (D)
+1-202-225-6335   na
+LHOB
+
+NY Paxon, Bill
+1-202-225-5265   1-202-225-5910
+RHOB                      bpaxon@hr.house.gov
+
+NY Slaughter, Louise M. (D)
+1-202-225-3615   1-202-225-7822
+RHOB
+
+NY LaFalce, John J. (D)
+1-202-225-3231   1-202-225-8693
+RHOB
+
+NY Quinn, Jack  (R)
+1-202-225-3306   1-202-226-0347
+Cannon
+
+NY Houghton, Amory (R)
+1-202-225-3161   1-202-225-5574
+LHOB
+
+OH Chabot, Steve (R)
+1-202-225-2216
+LHOB
+
+OH Portman, Rob (R)
+1-202-225-3164
+Cannon                     portmail@hr.house.gov
+
+OH Hall, Tony P. (D)
+1-202-225-6465   na
+LHOB
+
+OH Oxley, Michael G. (R)
+1-202-225-2676   na
+RHOB
+
+OH Gillmor, Paul E. (R)
+1-202-225-6405   na
+LHOB
+
+OH Cremeans, Frank (R)
+1-202-225-5705   1-202-226-0331
+LHOB
+
+OH Hobson, David L. (R)
+1-202-225-4324   na
+LHOB
+
+OH Boehner, John Andrew (R)
+1-202-225-6205   1-202-225-0704
+LHOB
+
+OH Kaptur, Marcy (D)
+1-202-225-4146   1-202-225-7711
+RHOB
+
+OH Hoke, Martin R. (R)
+1-202-225-5871   1-202-226-0994
+Cannon                     hokemail@hr.house.gov
+
+OH Stokes, Louis (D)
+1-202-225-7032   1-202-225-1339
+RHOB
+
+OH Kasich, John R. (R)
+1-202-225-5355   na
+LHOB
+
+OH Brown, Sherrod (D)
+1-202-225-3401   na
+LHOB
+
+OH Sawyer, Thomas C. (D)
+1-202-225-5231   1-202-225-5278
+LHOB
+
+OH Pryce, Deborah (R)
+1-202-225-2015   1-202-226-0986
+Cannon
+
+OH Regula, Ralph (R)
+1-202-225-3876   1-202-225-3059
+RHOB
+
+OH Traficant Jr., James (D)
+1-202-225-5261   1-202-225-3719
+RHOB
+
+OH Ney, Bob (R)
+1-202-225-6265   1-202-225-3087
+LHOB
+
+OH LaTourette, Steven (R)
+1-202-225-5731   1-202-225-9114
+LHOB
+
+OK Largent, Steve (R)
+1-202-225-2211   1-202-225-9187
+Cannon
+
+OK Coburn, Tom (R)
+1-202-225-2701   1-202-225-2796
+Cannon
+
+OK Brewster, Billy Kent (D)
+1-202-225-4565   1-202-225-9029
+LHOB
+
+OK Watts, J.C. (R)
+1-202-225-6165   1-202-225-9746
+LHOB
+
+OK Istook, Ernest Jim (R)
+1-202-225-2132   na
+Cannon                     istook@hr.house.gov
+
+OK Lucas, Frank (R)
+1-202-225-5565   1-202-225-8698
+Cannon
+
+OR Furse, Elizabeth (D)
+1-202-225-0855   1-202-225-9497
+Cannon                     furseor1@hr.house.gov
+
+OR Cooley, Wes (R)
+1-202-225-6730
+LHOB
+
+OR Wyden, Ronald (D)
+1-202-225-4811   na
+LHOB
+
+OR DeFazio, Peter A. (D)
+1-202-225-6416   na
+RHOB                      pdefazio@hr.house.gov
+
+OR Bunn, Jim (R)
+1-202-225-5711   1-202-225-9477
+LHOB
+
+PA Foglietta, Thomas M. (D)
+1-202-225-4731   1-202-225-0088
+Cannon
+
+PA Fattah, Chaka (D)
+1-202-225-4001   1-202-225-7362
+LHOB
+
+PA Borski, Robert A. (D)
+1-202-225-8251   1-202-225-4628
+RHOB
+
+PA Klink, Ron (D)
+1-202-225-2565   na
+Cannon
+
+PA Clinger Jr., William (R)
+1-202-225-5121   1-202-225-4681
+RHOB
+
+PA Holden, Tim (D)
+1-202-225-5546   1-202-226-0996
+LHOB
+
+PA Weldon, Curt (R)
+1-202-225-2011   1-202-225-8137
+RHOB
+
+PA Greenwood, Jim (R)
+1-202-225-4276   1-202-225-9511
+Cannon
+
+PA Shuster, Bud (R)
+1-202-225-2431   na
+RHOB
+
+PA McDade, Joseph M. (R)
+1-202-225-3731   1-202-225-9594
+RHOB
+
+PA Kanjorski, Paul E. (D)
+1-202-225-6511   1-202-225-9024
+RHOB
+
+PA Murtha, John P. (D)
+1-202-225-2065   1-202-225-5709
+RHOB
+
+PA Fox, Jon (R)
+1-202-225-6111   1-202-226-0798
+Cannon
+
+PA Coyne, William J. (D)
+1-202-225-2301   na
+RHOB
+
+PA McHale, Paul (D)
+1-202-225-6411   1-202-225-5320
+Cannon
+
+PA Walker, Robert S. (R)
+1-202-225-2411   na
+RHOB                      pa16@hr.house.gov
+
+PA Gekas, George W. (R)
+1-202-225-4315   1-202-225-8440
+RHOB
+
+PA Doyle, Mike (D)
+1-202-225-2135   1-202-225-7747
+LHOB
+
+PA Goodling, William F. (R)
+1-202-225-5836   1-202-226-1000
+RHOB
+
+PA Mascara, Frank (D)
+1-202-225-4665   1-202-225-4772
+LHOB
+
+PA English, Phil (R)
+1-202-225-5406
+LHOB
+
+Romero-Barcelo, Carlos (D)     1-202-225-2615   1-202-225-2154
+Cannon
+
+RI Kennedy, Patrick (D)
+1-202-225-4911   1-202-225-4417
+LHOB
+
+RI Reed, JOHN F. (D)
+1-202-225-2735   1-202-225-9580
+LHOB
+
+SC Sanford, Mark (R)
+1-202-225-3176
+LHOB
+
+SC Spence, Floyd  (R)
+1-202-225-2452   1-202-225-2455
+RHOB
+
+SC Graham, Lindsey (R)
+1-202-225-5301
+LHOB
+
+SC Inglis, Bob (R)
+1-202-225-6030   1-202-226-1177
+LHOB
+
+SC Spratt Jr., John M. (D)
+1-202-225-5501   1-202-225-0464
+LHOB
+
+SC Clyburn, James E. (D)
+1-202-225-3315   1-202-225-2302
+Cannon
+
+Johnson, Timothy P. (D)
+1-202-225-2801   1-202-225-2427
+RHOB
+
+TN Quillen, James H. (R)
+1-202-225-6356   1-202-225-7812
+Cannon
+
+TN Duncan Jr., John J. (R)
+1-202-225-5435   1-202-225-6440
+RHOB
+
+TN Wamp, Zach (R)
+1-202-225-3271   1-202-225-6974
+Cannon
+
+TN Hilleary, Van (R)
+1-202-225-6831   1-202-225-4520
+Cannon
+
+TN Clement, Robert (D)
+1-202-225-4311   1-202-226-1035
+RHOB
+
+TN Gordon, Bart (D)
+1-202-225-4231   1-202-225-6887
+RHOB
+
+TN Bryant, Ed (R)
+1-202-225-2811   1-202-225-2814
+LHOB
+
+TN Tanner, John S. (D)
+1-202-225-4714   1-202-225-1765
+LHOB
+
+TN Ford, Harold E. (D)
+1-202-225-3265   na
+RHOB
+
+TX Chapman, Jim (D)
+1-202-225-3035   1-202-225-7265
+RHOB
+
+TX Wilson, Charles (D)
+1-202-225-2401   1-202-225-1764
+RHOB                      cwilson@hr.house.gov
+
+TX Johnson, Sam (R)
+1-202-225-4201   1-202-225-1485
+LHOB                      samtx03@hr.house.gov
+
+TX Hall, Ralph M. (D)
+1-202-225-6673   1-202-225-3332
+RHOB
+
+TX Bryant, John (D)
+1-202-225-2231   na
+RHOB
+
+TX Barton, Joseph (R)
+1-202-225-2002   1-202-225-3052
+RHOB                      barton06@hr.house.gov
+
+TX Archer, William (R)
+1-202-225-2571   1-202-225-4381
+LHOB
+
+TX Fields, Jack (R)
+1-202-225-4901   na
+RHOB
+
+TX Stockman, Steve (R)
+1-202-225-6565   1-202-225-1584
+Cannon
+
+TX Doggett, Lloyd (D)
+1-202-225-4865
+Cannon
+
+TX Edwards, Chet (D)
+1-202-225-6105   1-202-225-0350
+Cannon
+
+TX Geren, Peter (D)
+1-202-225-5071   1-202-225-2786
+RHOB
+
+TX Thornberry, William (R)
+1-202-225-3706   1-225-6142
+LHOB
+
+TX Laughlin, Gregory H. (D)
+1-202-225-2831   1-202-225-1108
+Cannon
+
+TX de la Garza, E. (D)
+1-202-225-2531   1-202-225-2534
+LHOB
+
+TX Coleman, Ronald D. (D)
+1-202-225-4831   na
+RHOB
+
+TX Stenholm, Charles W. (D)
+1-202-225-6605   1-202-225-2234
+LHOB
+
+TX Jackson-Lee, Sheila (D)
+1-202-225-3816
+LHOB
+
+TX Combest, Larry (R)
+1-202-225-4005   na
+LHOB
+
+TX Gonzalez, Henry B. (D)
+1-202-225-3236   1-202-225-1915
+RHOB
+
+TX Smith, Lamar S. (R)
+1-202-225-4236   1-202-225-8628
+RHOB
+
+TX DeLay, Thomas (R)
+1-202-225-5951   na
+Cannon
+
+TX Bonilla, Henry (R)
+1-202-225-4511   1-202-225-2237
+LHOB
+
+TX Frost, Martin (D)
+1-202-225-3605   1-202-225-4951
+RHOB
+
+TX Bentsen, Ken (D)
+1-202-225-7508
+Cannon
+
+TX Armey, Richard K. (R)
+1-202-225-7772   1-202-225-7614
+Cannon
+
+TX Ortiz, Solomon P. (D)
+1-202-225-7742   1-202-226-1134
+RHOB
+
+TX Tejeda, Frank (D)
+1-202-225-1640   na
+Cannon
+
+TX Green, Gene (D)
+1-202-225-1688   1-202-225-9903
+LHOB
+
+TX Johnson, Eddie Bernice (D)     1-202-225-8885   na
+LHOB
+
+UT Hansen, James V. (R)
+1-202-225-0453   1-202-225-5857
+RHOB
+
+UT Waldholtz, Enid (R)
+1-202-225-3011   1-202-226-0354
+Cannon
+
+UT Orton, William H. (D)
+1-202-225-7751   1-202-226-1223
+Cannon
+
+VA Bateman, Herbert H. (R)
+1-202-225-4261   1-202-225-4382
+RHOB
+
+VA Pickett, Owen B. (D)
+1-202-225-4215   1-202-225-4218
+RHOB                      opickett@hr.house.gov
+
+VA Scott, Robert C. (D)
+1-202-225-8351   1-202-225-3854
+Cannon
+
+VA Sisisky, Norman (D)
+1-202-225-6365   1-202-226-1170
+RHOB
+
+VA Payne Jr., Lewis F. (D)
+1-202-225-4711   1-202-226-1147
+RHOB
+
+VA Goodlatte, Robert W. (R)
+1-202-225-5431   1-202-225-9681
+Cannon                     talk2bob@hr.house.gov
+
+VA Bliley Jr., Thomas J. (R)
+1-202-225-2815   na
+RHOB
+
+VA Moran Jr., James P. (D)
+1-202-225-4376   1-202-225-0017
+Cannon
+
+VA Boucher, Rick (D)
+1-202-225-3861   na
+RHOB                      jshoumak@hr.house.gov
+
+VA Wolf, Frank R. (R)
+1-202-225-5136   1-202-225-0437
+Cannon
+
+VA Davis, Thomas (R)
+1-202-225-1492
+Cannon
+
+Frazer, Victor
+1-202-225-1790   1-202-225-9392
+LHOB
+
+Sanders, Bernard (I)
+1-202-225-4115   1-202-225-6790
+Cannon                     bsanders@igc.apc.org
+
+WA White, Rick (R)
+1-202-225-6311   1-202-225-2286
+Cannon
+
+WA Metcalf, Jack (R)
+1-202-225-2605   1-202-225-2608
+Cannon
+
+WA Smith, Linda (R)
+1-202-225-3536   1-202-225-9095
+LHOB
+
+WA Hastings, Doc (R)
+1-202-225-5816   1-202-226-1137
+LHOB
+
+WA Nethercutt, George (R)
+1-202-225-2006
+LHOB
+
+WA Dicks, Norman D. (D)
+1-202-225-5916   na
+RHOB
+
+WA McDermott, James A. (D)
+1-202-225-3106   1-202-225-9212
+RHOB
+
+WA Dunn, Jennifer (R)
+1-202-225-7761   na
+Cannon
+
+WA Tate, Randy (R)
+1-202-225-8901   1-202-226-2361
+LHOB
+
+WI Neumann, Mark (R)
+1-202-225-3031
+LHOB
+
+WI Klug, Scott (R)
+1-202-225-2906   na
+LHOB
+
+WI Gunderson, Steve (R)
+1-202-225-5506   1-202-225-6195
+RHOB
+
+WI Kleczka, Gerald D. (D)
+1-202-225-4572   1-202-225-8135
+RHOB
+
+WI Barrett, Thomas M. (D)
+1-202-225-3571   na
+LHOB
+
+WI Petri, Thomas E. (R)
+1-202-225-2476   1-202-225-2356
+RHOB
+
+WI Obey, David R. (D)
+1-202-225-3365   na
+RHOB
+
+WI Roth, Toby (R)
+1-202-225-5665   1-202-225-0087
+RHOB
+
+WI Sensenbrenner, F. J. (R)
+1-202-225-5101   1-202-225-3190
+RHOB
+
+WV Mollohan, Alan B. (D)
+1-202-225-4172   1-202-225-7564
+RHOB
+
+WV Wise Jr., Robert E. (D)
+1-202-225-2711   1-202-225-7856
+RHOB
+
+WV Rahall II, Nick Joe (D)
+1-202-225-3452   1-202-225-9061
+RHOB
+
+Cubin, Barbara (R)
+1-202-225-2311   1-202-225-0726
+LHOB
+
+***Other Items of Interest***
+
+A letter or postcard will have the most impact.
+A letter is better than a fax, a fax is better than a
+phone call, and a phone call is better than an e-mail.
+
+You should often send your letter or fax to the Chairman of
+each Judiciary committee in Congress. Their addresses are:
+
+Senator Orrin Hatch, Chairman
+Committee on the Judiciary
+Dirksen Senate Office Building, Room 224
+Washington, DC  20510-6275
+telephone - 202-224-5225
+fax - 202-224-9102
+
+Henry Hyde, Chairman
+Committee on the Judiciary
+Rayburn House Office Building, Room 2138
+Washington, DC  20515-6216
+telephone - 202-225-3951
+fax - 202-225-7682
+
+The following also works if you don't want to keep all listings:
+
+Send copies to each of your Senators and your Representative at:
+
+Senator (name)
+United States Congress
+Washington, DC  20510
+
+Representative (name)
+United States Congress
+Washington, DC  20515
+
+Send a copy to Newt Gingrich at:
+
+Representative Newt Gingrich
+Rayburn House Office Building, Room 2428
+Washington, DC  20515
+georgia6@hr.house.gov
+
+Send copies to the President and Vice President at:
+
+Bill Clinton
+President of the United States
+1600 Pennsylvania Avenue
+Washington, DC
+president@whitehouse.gov
+
+Al Gore
+Vice-President of the United States
+1600 Pennsylvania Avenue
+Washington, DC
+vice.president@whitehouse.gov
+
+
+End of Project Gutenberg's U.S. Congress Address Book
+
+
+
