@@ -1,0 +1,22 @@
+_repo: 1995-United-States-Congressional-Address-Book_251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States
+    gutenberg_agent_id: '1'
+    url: http://www.gutenberg.org/2009/agents/1
+description: ''
+gutenberg_issued: '1995-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States. Congress'
+- GITenberg
+title: 1995 United States Congressional Address Book
+url: http://www.gutenberg.org/ebooks/251
